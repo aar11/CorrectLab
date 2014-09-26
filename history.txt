@@ -1,0 +1,184 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  export http_proxy=http://localhost:3128
+   84  $export GIT_SSL_NO_VERIFY=1
+   85  export http_proxy=http://localhost:3128
+   86  sudo -E apt-get install git
+   87  export GIT_SSL_NO_VERIFY=1
+   88  export http_proxy=http://localhost:3128
+   89  sudo -E apt-get install git
+   90  export run=5
+   91  echo $run
+   92  export GIT_SSL_NO_VERIFY=1
+   93  export http_proxy=http://localhost:3128
+   94  sudo -E apt-get install git
+   95  export GIT_SSL_NO_VERIFY=1
+   96  export http_proxy=http://localhost:3128
+   97  sudo -E apt-get install git
+   98  sudo -E apt-get install git
+   99  sudo -E apt-get git
+  100  sudo -E apt-get install git
+  101  touch README.md
+  102  git init
+  103  git add README.md
+  104  git commit -m "first commit"
+  105  git remote add origin https://github.com/aar11/EAALab2.git
+  106  git push -u origin master
+  107  git config --global user.email <"aaron.connolly08@gmail.com">
+  108  git config --global user.email "<aaron.connolly08@gmail.com>"
+  109  git config --global user.name "<aar11>"
+  110  git push origin master
+  111  git commit -m "first commit"
+  112  git remote add origin https://github.com/aar11/EAALab2.git
+  113  git push -u origin master
+  114  git commit -a
+  115  touch README.md
+  116  git init
+  117  git add README.md
+  118  git commit -m "first commit"
+  119  git remote add origin https://github.com/aar11/EAALab2.git
+  120  git push -u origin master
+  121  git add -A
+  122  gedit README.md
+  123  mkdir EAALab2
+  124  cd EAALab2
+  125  gedit README.md
+  126  export GIT_SSL_NO_VERIFY=1
+  127  export http_proxy=http://localhost:3128
+  128  sudo -E apt-get install git
+  129  touch README.md
+  130  git init
+  131  git add README.md
+  132  git commit -m "first commit"
+  133  git remote add origin https://github.com/aar11/CorrectLab.git
+  134  git push -u origin master
+  135  export GIT_SSL_NO_VERIFY=1
+  136  export http_proxy=http://localhost:3128
+  137  sudo -E apt-get install git
+  138  mkdir CorrectLab
+  139  ca
+  140  cd CorrectLab
+  141  mkdir week2
+  142  cd week2
+  143  touch script.sh
+  144  cd ..
+  145  touch README.md
+  146  get init
+  147  git init
+  148  git add -A
+  149  git commit -a
+  150  git remote add origin https://github.com/aar11/CorrectLab.git
+  151  git push -u origin master
+  152  git push -u origin master
+  153  wc
+  154  grep | wc
+  155  grep --help
+  156  $ grep processor /proc/cpuinfo
+  157  grep processor /proc/cpuinfo
+  158  grep processor /proc/cpuinfo | wc -l
+  159  gedit cpucont.sh
+  160  grep processor /proc/cpuinfo | wc -l
+  161  git add -A
+  162  gti commit -a
+  163  git commit -a
+  164  git push -u origin master
+  165  gedit cpucount
+  166  grep processor /proc/cpuinfo | wc -l
+  167  gedit cpucont.sh
+  168  git add -A
+  169  git commit -a
+  170  git push -u origin master
+  171  grep processor /proc/cpuinfo | wc -l
+  172  gedit thecpucount
+  173  git add -A
+  174  git commit -a
+  175  grep processor /proc/cpuinfo | wc -l
+  176  getit realcpucount.sh
+  177  gedit realcpucount.sh
+  178  get add -A
+  179  git add -A
+  180  git commit -a
+  181  git commit -a
+  182  git push -u origin master
+  183  history
+  184  history > history.txt
